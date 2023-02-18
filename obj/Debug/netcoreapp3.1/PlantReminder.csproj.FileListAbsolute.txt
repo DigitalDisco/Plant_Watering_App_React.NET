@@ -1,0 +1,165 @@
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.deps.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.runtimeconfig.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.runtimeconfig.dev.json
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.pdb
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.Views.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/PlantReminder.Views.pdb
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.NodeServices.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.SpaServices.Extensions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/macintoshssd/lighthouse/PlantReminder/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.csprojAssemblyReference.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.AssemblyInfoInputs.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.AssemblyInfo.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.csproj.CoreCompileInputs.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.MvcApplicationPartsAssemblyInfo.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.MvcApplicationPartsAssemblyInfo.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.RazorAssemblyInfo.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.RazorAssemblyInfo.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.TagHelpers.input.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.TagHelpers.output.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.RazorCoreGenerate.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.RazorTargetAssemblyInfo.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.RazorTargetAssemblyInfo.cs
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.Views.pdb
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.csproj.CopyComplete
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/staticwebassets/PlantReminder.StaticWebAssets.Manifest.cache
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/staticwebassets/PlantReminder.StaticWebAssets.xml
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.dll
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.pdb
+/Users/macintoshssd/lighthouse/PlantReminder/obj/Debug/netcoreapp3.1/PlantReminder.genruntimeconfig.cache
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.StaticWebAssets.xml
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.exe
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.deps.json
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.runtimeconfig.json
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.runtimeconfig.dev.json
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.pdb
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.Views.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.Views.pdb
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\atlas\.NET example 10\PlantReminder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.AssemblyReference.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.AssemblyInfoInputs.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.AssemblyInfo.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.CoreCompileInputs.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorAssemblyInfo.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorAssemblyInfo.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\PlantReminder.StaticWebAssets.Manifest.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\PlantReminder.StaticWebAssets.Pack.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PlantReminder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PlantReminder.props
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PlantReminder.props
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PlantReminder.props
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.TagHelpers.input.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.TagHelpers.output.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorCoreGenerate.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorTargetAssemblyInfo.cache
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorTargetAssemblyInfo.cs
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.Views.pdb
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.CopyComplete
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.dll
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.pdb
+C:\Users\atlas\.NET example 10\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.genruntimeconfig.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.StaticWebAssets.xml
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.exe
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.deps.json
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.runtimeconfig.json
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.runtimeconfig.dev.json
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.pdb
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.Views.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\PlantReminder.Views.pdb
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.AssemblyReference.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.AssemblyInfoInputs.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.AssemblyInfo.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.CoreCompileInputs.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorAssemblyInfo.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorAssemblyInfo.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\PlantReminder.StaticWebAssets.Manifest.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\PlantReminder.StaticWebAssets.Pack.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PlantReminder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PlantReminder.props
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PlantReminder.props
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PlantReminder.props
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.TagHelpers.input.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.TagHelpers.output.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorCoreGenerate.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorTargetAssemblyInfo.cache
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.RazorTargetAssemblyInfo.cs
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.Views.pdb
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.csproj.CopyComplete
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.dll
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.pdb
+C:\Users\atlas\.NET example 10✔️\PlantReminder\obj\Debug\netcoreapp3.1\PlantReminder.genruntimeconfig.cache
