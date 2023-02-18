@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap");
+
+/* Nav */
+nav {
+  height: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.nav {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400px;
+  margin-bottom: 4em;
+  border-bottom: 1px solid rgb(209, 209, 209);
+  display: flex;
+  justify-content: center;
+}
+
+/* Plant table */
+.plantTable {
+  margin-bottom: 11em;
+  display: flex;
+  justify-content: center;
+}
+
+table th,
+td {
+  border: 3px solid black;
+  padding: 1em;
+}
+
+table {
+  width: 950px;
+}
+
+.waterplants-button {
+  width: 70px;
+  height: 70px;
+}
+
+button {
+  width: 170px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+}
+
+/* Form */
+
+.form {
+  margin-bottom: 4em;
+  display: flex;
+  justify-content: flex-end;
+}
+.formSection {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.formLabel {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Body */
+
+#body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
